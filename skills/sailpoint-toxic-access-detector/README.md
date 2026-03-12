@@ -14,7 +14,7 @@ A Claude Code skill for detecting segregation-of-duties (SoD) violations, toxic 
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/supersail/tree/main/skills/sailpoint-toxic-access-detector
+claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-toxic-access-detector
 ```
 
 ## Prerequisites

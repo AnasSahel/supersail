@@ -12,7 +12,7 @@ A Claude Code skill for diagnosing and resolving stuck, waiting, or hung access 
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/supersail/tree/main/skills/sailpoint-stuck-requests
+claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-stuck-requests
 ```
 
 ## Prerequisites

@@ -1,4 +1,4 @@
-# SailPoint Account Toggle
+# SailPoint Account Status
 
 A Claude Code skill for enabling or disabling accounts in a SailPoint Identity Security Cloud source.
 
@@ -13,7 +13,7 @@ A Claude Code skill for enabling or disabling accounts in a SailPoint Identity S
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/supersail/tree/main/skills/sailpoint-account-toggle
+claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-account-status
 ```
 
 ## Prerequisites

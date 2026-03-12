@@ -1,6 +1,6 @@
-# SuperSail
+# OSS SailPoint Skills
 
-A collection of custom SailPoint Skills, Agents, and automation built on top of the [SailPoint Identity Security Cloud (ISC)](https://www.sailpoint.com/products/identity-security-cloud) platform.
+A collection of open-source SailPoint Skills, Agents, and automation built on top of the [SailPoint Identity Security Cloud (ISC)](https://www.sailpoint.com/products/identity-security-cloud) platform.
 
 ## Purpose
 

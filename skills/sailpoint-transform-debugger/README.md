@@ -13,7 +13,7 @@ A Claude Code skill for diagnosing and fixing SailPoint identity transforms that
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/supersail/tree/main/skills/sailpoint-transform-debugger
+claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-transform-debugger
 ```
 
 ## Prerequisites

@@ -13,7 +13,7 @@ A Claude Code skill for detecting orphan (uncorrelated) accounts, dormant accoun
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/supersail/tree/main/skills/sailpoint-orphan-and-dormant-account-report
+claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-orphan-and-dormant-account-report
 ```
 
 ## Prerequisites

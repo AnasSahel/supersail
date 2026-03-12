@@ -1,6 +1,6 @@
-# SuperSail
+# OSS SailPoint Skills
 
-Repository for SailPoint custom Skills, Agents, and related automation.
+Repository for open-source SailPoint custom Skills, Agents, and related automation.
 
 ## What This Repo Contains
 
