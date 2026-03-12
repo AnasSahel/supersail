@@ -9,7 +9,7 @@ Queries the ISC Search API for `source_management` events and produces a breakdo
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-aggregation-report
+claude install-skill https://github.com/AnasSahel/sailpoint-skills/tree/main/skills/sailpoint-aggregation-report
 ```
 
 ## Prerequisites

@@ -13,7 +13,7 @@ A Claude Code skill that investigates blocked, stuck, or failing access requests
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-access-request-investigator
+claude install-skill https://github.com/AnasSahel/sailpoint-skills/tree/main/skills/sailpoint-access-request-investigator
 ```
 
 ## Prerequisites

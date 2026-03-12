@@ -12,7 +12,7 @@ A Claude Code skill for diagnosing why provisioning failed in SailPoint Identity
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-provisioning-failure-triage
+claude install-skill https://github.com/AnasSahel/sailpoint-skills/tree/main/skills/sailpoint-provisioning-failure-triage
 ```
 
 ## Prerequisites

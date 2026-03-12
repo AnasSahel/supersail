@@ -1,4 +1,4 @@
-# OSS SailPoint Skills
+# SailPoint Skills
 
 Repository for open-source SailPoint custom Skills, Agents, and related automation.
 

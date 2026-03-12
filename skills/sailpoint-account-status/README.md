@@ -13,7 +13,7 @@ A Claude Code skill for enabling or disabling accounts in a SailPoint Identity S
 ## Install
 
 ```bash
-claude install-skill https://github.com/AnasSahel/oss-sailpoint-skills/tree/main/skills/sailpoint-account-status
+claude install-skill https://github.com/AnasSahel/sailpoint-skills/tree/main/skills/sailpoint-account-status
 ```
 
 ## Prerequisites
